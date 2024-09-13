@@ -4,23 +4,23 @@
 
 # Используемый код:
 
-{
-  "id": 444555,
-  "category": {
-    "id": 4444,
-    "name": "dogs"
-  },
-  "name": "Jack",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
-    {
-      "id": 0,
-      "name": "string"
-    }
-  ],
-  "status": "available"
+{ <br />
+  "id": 444555, <br />
+  "category": { <br />
+    "id": 4444, <br />
+    "name": "dogs" <br />
+  }, <br />
+  "name": "Jack", <br />
+  "photoUrls": [ <br />
+    "string" <br />
+  ], <br />
+  "tags": [ <br />
+    { <br />
+      "id": 0, <br />
+      "name": "string" <br />
+    } <br />
+  ], <br />
+  "status": "available" <br />
 }
 
 # Используемые url в запросах:
